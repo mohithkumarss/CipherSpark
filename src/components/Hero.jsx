@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, Welcome to<span className="text-[#967bb6]"> Cipher Spark</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Hackathon of <span className="text-[#8CD4A6]"> Innovation</span>{" "}
+            Hackathon of <span className="text-[teal]"> Innovation</span>{" "}
             <br className="sm:block hidden" />& creative minds
           </p>
         </div>
